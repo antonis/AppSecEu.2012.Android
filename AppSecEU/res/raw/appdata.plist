@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>speakers</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Brad Arkin</string>
+			<key>headline</key>
+			<string>OWASP, Syntax</string>
+			<key>bio</key>
+			<string>bla bla bla</string>
+			<key>email</key>
+			<string>conpap@gmail.com</string>
+			<key>web</key>
+			<string>http://antonis.me</string>
+			<key>twitter</key>
+			<string>http://twitter.com/kpapapan</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tom Keetch</string>
+			<key>headline</key>
+			<string>OWASP, Syntax</string>
+			<key>bio</key>
+			<string>bla bla bla</string>
+			<key>email</key>
+			<string>conpap@gmail.com</string>
+			<key>twitter</key>
+			<string>http://twitter.com/kpapapan</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Papapa</string>
+			<key>headline</key>
+			<string>OWASP, Syntax</string>
+			<key>bio</key>
+			<string>bla bla bla</string>
+			<key>email</key>
+			<string>conpap@gmail.com</string>
+			<key>New item</key>
+			<string></string>
+			<key>twitter</key>
+			<string>http://twitter.com/kpapapan</string>
+		</dict>
+	</array>
+	<key>tracks</key>
+	<array>
+		<dict>
+			<key>id</key>
+			<integer>0</integer>
+			<key>name</key>
+			<string>My Track</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>1</integer>
+			<key>name</key>
+			<string>Keynotes (Auditorium)</string>
+			<key>description</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>2</integer>
+			<key>name</key>
+			<string>Builders (A1)</string>
+			<key>description</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>3</integer>
+			<key>name</key>
+			<string>Defenders (A2)</string>
+			<key>description</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<integer>4</integer>
+			<key>name</key>
+			<string>Breakers (Auditorium)</string>
+			<key>description</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>speaches</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>Registration/Coffee</string>
+			<key>start</key>
+			<date>2012-07-12T05:45:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T06:30:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Welcome OWASP Foundation, Where we are… Where we are Going
+                    OWASP Board</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-12T06:30:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T07:00:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array>
+				<string>OWASP Board</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Keynote: Software Security Goes Mobile</string>
+			<key>description</key>
+			<string>Abstract: In the past decade, mobile devices have led one of the most rapid and widespread technology shifts since the advent of the computer. Studies show that users rely heavily on their mobile devices for a variety of tasks—ranging from shopping to scheduling doctor’s appointments—that would have previously taken them to a laptop or desktop. In the near future, smartphone sales will surpass both feature phone sales in North America and PC sales worldwide. With less than ten percent of the world’s population left uncovered by cellular signals, the rate of adoption shows no sign of slowing.
+As society’s reliance on mobile devices grows, so too does the risk posed by vulnerabilities in the software that drives them. In this talk we scrutinize the challenges involved in building secure mobile applications. Throughout, we call attention to differences and similarities between traditional software security assurance initiatives and those focused on mobile. We discuss how frequent reliance on outsourcing complicates security efforts and how the diversification of parties with an interest in mobile security makes assigning accountability for risks tenuous.
+Despite lifecycle differences, many mobile applications are simply new clients backed by existing web applications or services and are therefore subject to the same threats they’ve always faced. We review old threats in the new mobile context and go on to discuss threats unique to the mobile landscape, including: attacks against client-side data persistence, MMS, or GPS; malicious inter-application communication; problems with new security features, such as confusing permission models. We conclude the talk with a frank assessment of what software development organizations can do to take control and avoid being the weakest link in the chain of mobile security.
+Speaker Bio: Jacob West is Director, Software Security Research for the Enterprise Security Products division of Hewlett-Packard. West is a world-recognized expert on software security and brings a technical understanding of the languages and frameworks used to build software together with extensive knowledge about how real-world systems fail. In 2007, he co-authored the book “Secure Programming with Static Analysis” with colleague and Fortify founder Brian Chess. Today, the book remains the only comprehensive guide to static analysis and how developers can use it to avoid the most prevalent and dangerous vulnerabilities in code. West is a frequent speaker at industry events, including RSA Conference, Black Hat, Defcon, OWASP, and many others. A graduate of the University of California, Berkeley, West holds dual-degrees in Computer Science and French and resides in San Francisco, California.</string>
+			<key>start</key>
+			<date>2012-07-12T07:00:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T07:45:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>1</integer>
+			<key>speakers</key>
+			<array>
+				<string>Jacob West, CTO, Fortify Products, HP</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Coffee Break</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-12T07:45:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T08:00:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Teaching an Old Dog New Tricks Securing Development with PMD</string>
+			<key>description</key>
+			<string>Abstract: With the recent rise in high-profile corporate web application attacks, many organisations have made it a priority to build security into their internal software development lifecycle. Using static analysis to identify software security bugs is a common element in virtually all software security programs. While there are numerous commercial static analysis products that focus on security, they often involve high price tags, complex/unreasonable licensing models, steep learning curves, and can be cumbersome to integrate with existing processes.
+Luckily, using static analysis to identify software bugs is not a new paradigm. For years, developers have used static analysis tools to identifying code quality issues. While these tools may not be specifically designed for identifying security bugs, in many cases their underlying analysis engine can be adapted to do so with custom rules.
+This presentation will discuss how custom security rules can be added to existing code quality tools to identify potential software security bugs. In many cases, developers are already familiar with these tools and run them during development on a regular basis. Armed with security rulesets, the tools can also be valuable to security code auditors and penetration testers. Writing custom software security rules for the popular Java code scanning tool PMD will be the focus of the presentation.</string>
+			<key>start</key>
+			<date>2012-07-12T08:00:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T08:40:00Z</date>
+			<key>place</key>
+			<string>A1</string>
+			<key>track</key>
+			<integer>2</integer>
+			<key>speakers</key>
+			<array>
+				<string>Justin Clarke (Gotham Digital Science)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>OWASP Top Ten Defensive Techniques</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-12T08:00:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T08:40:00Z</date>
+			<key>place</key>
+			<string>A1</string>
+			<key>track</key>
+			<integer>3</integer>
+			<key>speakers</key>
+			<array>
+				<string>Jim Manico (Whitehat)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Screw You and the Script You Rode in On</string>
+			<key>description</key>
+			<string>Abstract: The only automated clients that most websites want are the search engine crawlers. Other than that, scripted access to a website could be a simple nuisance, competitors scraping data, spam-bots, or full-on DDoS attacks. Even when the script isn’t malicious, a rude script can easily slow down even a major website. There isn’t a good way of stopping this. CAPTCHAs are a common solution, but they suck; anyone who says otherwise is a cheat and a liar. Users hate them because the good ones are hard to read, and even the best can be decoded by clever programmers.In this presentation, an alternative technique will be demonstrated. Instead of relying on a single input to identify humans, it is possible to create a server-side baseline of normal access patterns to a website and identify automated access based on anomalous behavior. The nature of the automated tool can often be identified as well (search indexer, security scanner, etc).
+The tool being released uses a number of advanced techniques to benchmark human users, including website entry point, request rates, navigation sequence, navigation delays, web page dependency requests, and HTTP headers. While some of these are easy to forge (particularly headers), the heuristic criteria for human behavior is far more difficult to mimic over an extended period of time.
+The current application of these techniques is through static analysis (e.g. log files or packet captures) using a tool that will be released at the conference. Future plans are to incorporate this functionality into a real-time engine that can block content at a web server or application firewall.</string>
+			<key>start</key>
+			<date>2012-07-12T08:00:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T08:40:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>4</integer>
+			<key>speakers</key>
+			<array>
+				<string>David Byrne and Charles Henderson (Trustwave)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Break</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-12T08:40:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T08:50:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Unraveling some of the Mysteries around DOMbased XSS</string>
+			<key>description</key>
+			<string>Abstract:DOM-based XSS was first revealed to the world back in 2005 by Amit Klien, when it was an interesting theoretical vulnerability. In 2012, with the push towards Web 2.0 well into the mainstream, DOM-based XSS has become a very commonly uncovered and exploited vulnerability, but it’s poorly understood. This talk will focus on the full range of issues around DOM-based XSS. It will start with a discussion of the technical details of the vulnerability, the true nature of the risk it introduces (both likelihood and impact), and some new terminology and updated definitions about what truly is a DOM-based XSS vulnerability as compared to the standard Stored and Reflected XSS that the community is well aware of. It will then discuss the difficulties that security analysts face when trying to find DOM-based XSS flaws, and provide recommended analysis techniques that help move DOM-based XSS discovery from an art towards more of a science. And finally, it will discuss simple techniques for avoiding DOM-based XSS issues in the first place as well as how to mitigate issues that are uncovered during a security review.</string>
+			<key>start</key>
+			<date>2012-07-12T08:50:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T09:30:00Z</date>
+			<key>place</key>
+			<string>A1</string>
+			<key>track</key>
+			<integer>2</integer>
+			<key>speakers</key>
+			<array>
+				<string>Dave Wichers (Aspect Security)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Breaking is easy, preventing is hard</string>
+			<key>description</key>
+			<string>Abstract: Is security a losing battle? Breaking software seems to become easier over time, while protecting it seems to become harder and harder. The situation in 2011 was bleak: from Anonymous using simple SQL injection attacks against big targets, to Stuxnet and Duqu, all the way to external intrusions in to the Playstation network and RSA. In this talk, we explain this phenomenon and explore methods the industry might use to reverse the trend.
+The rules for the security game are simple: coders can’t make any mistakes, because attackers only have to discover one good vulnerability to win. Finding vulnerabilities in a target program becomes easier provided enough time, of which attackers have plenty. New kinds of vulnerabilities and novel techniques for finding old ones often leave defenders playing catch-up with the bad guys, but also provide an opportunity for defenders to capture and leverage ever increasing vulnerability knowledge in their vulnerability assessment efforts.
+Let us illustrate this opportunity with an example– the open source enterprise automation software Apache OfBiz. In 2010, a security research firm stumbled on a couple of vulnerabilities in the widely used project. As a proof of concept, the firm posted a video showing how easy it was to become an administrator by exploiting one of the XSS issues in the application. To remain credible, the OFBiz team reacted quickly and remediated the vulnerabilities. After that push, security improvements in the product stalled.
+After the security push, a problem in Sun’s JVM was discovered that permitted attackers to perform a denial-of-service attack, (the so called “Parse Double” problem), against vulnerable installations. Around the same time, new gray-box analysis techniques were introduced to the market. We tested the post-security-push version of Apache Ofbiz for the parse double vulnerability (as well as other well-known vulnerability categories) using this new analysis technique. The conclusion? Only one year after the Apache Ofbiz development team undertook its major security push, the same code base thought to be secure was already vulnerable.
+We kickoff the session by introducing Apache OFBiz and the security improvements implemented in its latest release. Next, we introduce the parse double denial of service vulnerability and a new assessment technique called gray-box analysis. Throughout the presentation, we dive into the internals of gray-box analysis and show how gray-box analysis can overcome some of the problems white-and black-box analyses face. Finally, we show a dozen new vulnerabilities in Apache OFBiz that have always been there, but were only identified using the latest security intelligence and assessment techniques.</string>
+			<key>start</key>
+			<date>2012-07-12T08:50:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T09:30:00Z</date>
+			<key>place</key>
+			<string>A2</string>
+			<key>track</key>
+			<integer>3</integer>
+			<key>speakers</key>
+			<array>
+				<string>Matias Madou (HP)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>What Permissions Does Your Database User REALLY Need?</string>
+			<key>description</key>
+			<string>Abstract: Attaching web applications to databases as “sa” or “root” might be easy but it is also a horrible idea. This presentation provides a methodology as well as tools to create fine-grained database user permissions based on application-specific requirements. The negative impact of permissive database user account permissions is demonstrated alongside the potential benefits of constrained database user access. Tools for the automated creation of security-role-specific MySQL user permission policies will be demonstrated and these will be used as a model  for making “least privilege” database accounts a standard practice in web application deployment.</string>
+			<key>start</key>
+			<date>2012-07-12T08:50:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T09:30:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>4</integer>
+			<key>speakers</key>
+			<array>
+				<string>Dan Cornell (Denim Group)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Break</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-12T09:30:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T09:40:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Keynote: From EasySQL to CPUs</string>
+			<key>description</key>
+			<string>Abstract: In 1994, Oracle suffered its first known product vulnerability and reacted by sending a patch to every customer on tape or those new shiny CDs. But Oracle’s dedication to security famously goes back to its first customer, the CIA. Some years and several product acquisitions later, Oracle’s approach to security assurance is still rooted in that history of putting protection of its customers first. As well as reviewing Oracle’s product vulnerability handling practices, this presentation will explain the core elements and challenges of Oracle’s Software Security Assurance program including:
+Secure development processes and practices, and the foundation on which they’re built, Oracle’s Secure Coding Standards that include lessons learned from past experiences
+Comprehensive security analysis and testing
+Secure configurations with guides and utilities to identify deviation from known secure states
+Independent product security testing evaluations and validations
+Building a decentralised, delegated, internal security community
+Applying security bar-raising changes
+Introducing cultural and process change to new product acquisitions
+Speaker Bio: Duncan Harris is senior director of security assurance at Oracle, responsible for all product security vulnerability handling, for Oracle’s internal ethical hacking team, for formal product security evaluations such as Common Criteria and FIPS 140, and for defining, educating, evangelising and ensuring compliance to internal secure development standards. He provides broad security advice to Oracle information security, legal, HR, marketing, PR, internal audit and physical security teams, and takes an active role in defining new direction for security in Oracle’s core database and application server products, based on the weaknesses and vulnerabilities his team and real world hackers identify and expose. Duncan notably constructed the technical proof behind Oracle’s “Unbreakable” marketing campaign.
+Over his 18 years at Oracle, he has also been the product manager for Trusted Oracle7, Oracle’s B1 multilevel secure database, now replaced by Oracle Label Security, and he has been involved with all Oracle’s product security evaluations and validations. Prior to Oracle, he worked as a UK government security evaluator and on various UK classified systems.</string>
+			<key>start</key>
+			<date>2012-07-12T09:40:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T10:25:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>1</integer>
+			<key>speakers</key>
+			<array>
+				<string>Duncan Harris, Director of Security Assurance, Oracle</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Lunch</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-12T10:25:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T11:25:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Keynote: Finding Malware on a Web Scale</string>
+			<key>description</key>
+			<string>Abstract: Over the last several years, JavaScript malware has emerged as one of the most popular ways to deliver drive-by attacks to unsuspecting users through the browser. This talk covers recent Microsoft Research advances in finding internet malware on a very large scale using a variety of program analysis techniques. It highlights two tools: Nozzle and Zozzle. Nozzle is a runtime malware detector that focuses on finding heap spraying attacks. Zozzle is a mostly static detector that finds heap sprays and other types of JavaScript malware. Both are extremely precise: Nozzle false positive rate is close to one in a billion; Zozzle’s is about one in a million.
+Both are deployed by Bing and are used daily to find thousands of malicious web sites. This talk will focus on interesting interplay between static and runtime analysis and cover what it takes to migrate research ideas into real-world products
+Speaker Bio: Ben Livshits is a researcher at Microsoft Research in Redmond and an affiliate professor at the University of Washington. Originally from St. Petersburg, Russia, he received a bachelor’s degree in Computer Science and Math from Cornell University in 1999, and his M.S. and Ph.D. in Computer Science from Stanford University in 2002 and 2006, respectively. Dr. Livshits’ research interests include application of sophisticated static and dynamic analysis techniques to finding errors in programs.
+Ben has published papers at PLDI, POPL, Oakland Security, Usenix Security, CCS, SOSP, ICSE, FSE, and many other venues. He is known for his work in software reliability and especially tools to improve software security, with a primary focus on approaches to finding buffer overruns in C programs and a variety of security vulnerabilities (cross-site scripting, SQL injections, etc.) in Web-based applications. He is the author of several dozen academic papers and patents. Lately he has been focusing on how Web 2.0 application and browser reliability, performance, and security can be improved through a combination of static and runtime techniques. Ben generally does not speak of himself in the third person.</string>
+			<key>start</key>
+			<date>2012-07-12T11:25:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T12:10:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>1</integer>
+			<key>speakers</key>
+			<array>
+				<string>Ben Livshits, Researcher, Microsoft Research</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Break</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-12T12:10:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T12:20:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Tricolour Alphanumerical Spaghetti</string>
+			<key>description</key>
+			<string>Abstract:Do you know your “A, B, Cs” from your “1, 2, 3s”? Is “red” much worse than “orange”, and why is “yellow” used instead of “green”? Just what is a “critical” vulnerability? Is “critical” the same as “very high”? How do PCI DSS “level 4 and 5” security scanning vulnerabilities relate to application weaknesses? Does a “tick” mean you passed? Are you using CWE and CVSS? Is a “medium” network vulnerability as dangerous as a “medium” application vulnerability? Can CWSS help? What is FIPS PUB 199? Does risk ranking equate to prioritisation? What is “one” vulnerability? Are you drowning in a mess of unrelated classifications, terminology and abbreviations? If you are a security verifier and want to know more about ranking your findings, or receive test reports and want to better understand the results, or are just new to ranking weaknesses /vulnerabilities and want an overview, come along to this presentation. It will also explain why the unranked information-only (“grey” or “blue”?) findings might contain some of the best value information.</string>
+			<key>start</key>
+			<date>2012-07-12T12:20:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T13:00:00Z</date>
+			<key>place</key>
+			<string>A1</string>
+			<key>track</key>
+			<integer>2</integer>
+			<key>speakers</key>
+			<array>
+				<string>Colin Watson (Watson Hall)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>CISO’s Guide to Securing SharePoint</string>
+			<key>description</key>
+			<string>Abstract. SharePoint’s functionality was built for business users to share information. However, business users don’t typically recognize critical security considerations. This leaves security teams with the task of layering security onto SharePoint well after deployments, or worse, after a data breach. This presentation will show:
+Highlight SharePoint use cases and potential security issues
+Offer best practices for SharePoint security planning and management
+Provide key mitigation steps that enterprises implement to minimize the odds of a data breach</string>
+			<key>start</key>
+			<date>2012-07-12T12:20:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T13:00:00Z</date>
+			<key>place</key>
+			<string>A2</string>
+			<key>track</key>
+			<integer>3</integer>
+			<key>speakers</key>
+			<array>
+				<string>Tsvika Klein (Imperva)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>I&gt;S+D! – Integrated Application Security Testing (IAST), Beyond SAST/DAST</string>
+			<key>description</key>
+			<string>Abstract: The goal of this talk is to present a new technological approach for automatic application security testing which is capable of responding to many of today’s challenges. IAST, Integrated Application Security Testing (also referred to as Interactive AST), performs runtime analysis of an application, hooking into the application process, thus enabling the tracking of actual code execution, memory, data manipulation, etc. Based on this approach, IAST technology can identify many types of vulnerabilities previously not considered possible by automatic tools.
+The talk examines technological concepts rather than specific products or solutions, and includes an advanced technical drill down into the technology specifics. All three technologies (DAST, SAST, IAST) will be discussed and compared using specific vulnerabilities as examples, explaining how each technology detects these vulnerabilities, and its limitations.
+The talk will begin with a quick overview of SAST and DAST technologies, reviewing their advantages and limitations based on real-world experience of organizations using such solutions. The focus will be on actual detection capabilities rather than usability issues, which are outside the scope of this talk. We will then discuss recent developments in SAST/DAST correlation as a mean for resolving some of these issues.
+The second part of the lecture will provide explanations of the new IAST runtime technology concepts. After explaining the principles of this technology, we will provide technical explanations on how runtime analysis is performed, how it is used for application security testing, as well as code samples and real-time information from memory correlated to these tests to give the audience a better understanding of this technology. Finally, we will show how application data are being analyzed and the information that a runtime analysis engine can extract in order to accurately identify vulnerabilities.
+In the last part, we will examine several vulnerabilities (such as SQL Injection, Parameter Tampering, Persistent XSS) and analyze how each technology (SAST/DAST/IAST) is being used to detect these vulnerabilities, and the pros and cons of each approach.</string>
+			<key>start</key>
+			<date>2012-07-12T12:20:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T13:00:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>4</integer>
+			<key>speakers</key>
+			<array>
+				<string>Ofer Maor (Seeker Security)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Coffee Break</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-12T13:00:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T13:15:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>CSP AiDer: An Automated Recommendation of Content Security Policy for Web Applications</string>
+			<key>description</key>
+			<string>Abstract: Content Security Policy (CSP) is a Mozilla proposal to provide website administrators with a way to state how content interacts on their  web sites. To assist web site administrators, in this paper, we present the first automated approach for the recommendation of content security policies in web applications. Using our prototype implementation called \texttt{CSP AiDer}, we have contributed in the recommendation of CSPs of more than 10000 web sites. We informed a number of major web sites about the CSPs we identified, and our findings were confirmed by mainstream web sites such as Twitter.</string>
+			<key>start</key>
+			<date>2012-07-12T13:15:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T13:55:00Z</date>
+			<key>place</key>
+			<string>A1</string>
+			<key>track</key>
+			<integer>2</integer>
+			<key>speakers</key>
+			<array>
+				<string>Ashar Javed (Ruhr University Bochum)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Things Your Smartphone Does When Nobody’s Looking</string>
+			<key>description</key>
+			<string>Abstract:Modern mobile applications run on devices that have the functionality of a desktop or laptop running a general purpose operating system. In addition, they’re designed around personal and communication functionality which makes the top mobile application risks different from the top traditional computing risks. In this presentation, Eng will outline the top mobile application risks, designed to educate developers and security professionals about the mobile application behavior — both maliciously designed or inadvertent — putting users at risk.</string>
+			<key>start</key>
+			<date>2012-07-12T13:15:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T13:55:00Z</date>
+			<key>place</key>
+			<string>A2</string>
+			<key>track</key>
+			<integer>3</integer>
+			<key>speakers</key>
+			<array>
+				<string>Chris Eng (Veracode)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Achieving Sustainable Delivery of Web Application Security Virtual Laboratory Resources for Distance Learning</string>
+			<key>description</key>
+			<string>Abstract: The purpose of this paper is to further evaluate and analyze the use of virtualization and associated cloud technologies to deliver traditionally resource intensive web application penetration testing (ethical hacking) training as a completely distance learning alternative to the traditional classroom experience.
+Previous work (Winckles et al (2010) and Williams et al (2010)) on remotely delivering network security on a distance learning basis, has successfully achieved the deployment of the necessary the building blocks for the use of virtualization techniques and remote laboratory front ends to enhance the traditional laboratory experience.
+The intention is to build upon our established body of research focusing on technical investigations into the use of virtualization and cloud computing to develop the concept of the Laboratory as a Service (LaaS) with complex security based scenarios which would otherwise require significant man hours to develop as physical resources
+Three core approaches have been investigated as part of this research and then implemented and analyzed by volunteers from geographically dispersed locations against a set of evaluation criteria
+• Creation of individual virtual machine (vm) images would be commissioned on an individual basis (similar to virtual desktop implementations) which can be reused for as required. For the simplest of scenarios a pair of different would be commissioned in a simple client server or attacker/vulnerable system scenario. Investigation utilised an Open Source Apache Virtual Computing Laboratory(VCL) in a network distributed environment (Vouk et al (2009)) for commissioning of reusable operating resources, providing a cloud computing based solution for network security laboratory teaching scenarios The major concern with this approach is that the whole approach needs the end user to coordinate both system commissioning and the testing scenario is visible to others on the “corporate” network.
+• Creation of a “team” or network of independent of VM’s on a single PC based platform which is then virtualised itself that platform and offered as a single VM in the similar scenario as that above. In this way a learner can book a reservation for that vm image commissioned just for that booking but achieve a better form of sandboxed environment for application security testing The main issue is that The performance of 2 levels of virtualisation could hinder performance and the user experience.
+• Creation of groups of VM’s commissioned in specific topologies within a sandboxed environment which can be commissioned and torn down as required. The key to this solution is the use of port groups to create groups of VM’s utilising temporary VLAN’s. The use of a proprietary off the shelf remote laboratory systems such as NDG’s Netlab can offer complex application security scenario based training offering virtual based solutions on demand.
+Persistence versus snapshot issues are important. In essence this becomes an issue between preserving a students investigation or testing status or the status being lost when a student finishes their current session
+The sustainable virtual laboratory inevitably always involves the initial resource investment in designing and implementing the “virtual” resource but once a suitable template is developed, it can provide the basis of almost limitless “instant” deployments which are only restricted by the capacity limitations of the cloud solution deployed.
+Both VCL and Netlab solutions are capable of delivering an automated and self-maintained virtualised remote computing environment to cater for students need with very little ongoing administration. Whilst VCL provides a highly scalable, flexible and very cost effective solution, it is limited in the complexity of the solutions potentially offered. Netlab provides a more managed solution better able to provide the complexity that more advanced security courses may require.
+References:
+Vouk, M. et al. 2009. Using VCL Technology to implement distributed
+reconfigurable data centres and computational service for educational institutes.
+[Online]. Available though: ACM Digital Library [Accessed 15/7/2011]
+Willems, C., Dawoud, W., Klingbeil, T. and Meinel, C. 2010. Protecting Tele-Lab
+– attack vectors and countermeasures for a remote virtual IT security lab.
+International Journal of Digital Society (IJDS). [e-journal] 1 (2), p.113.
+Winckles, A., Spasova, K. and Rowsell, T. 2011. Remote Laboratories and
+Reusable Learning Objects in a Distance Learning Context. Networks. [Online]
+14 January 2011. Available at:
+http://www.inspire.anglia.ac.uk/assets/uploads/networks/issue14/networks_remot
+e_laboratories.pdf [11/10/2011]</string>
+			<key>start</key>
+			<date>2012-07-12T13:15:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T13:55:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>4</integer>
+			<key>speakers</key>
+			<array>
+				<string>Adrian Winckles and Ibrahim Jeries (Anglia Ruskin University)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Panel - PCI Security Standards and Application Security</string>
+			<key>description</key>
+			<string>Jeremy King, European Director
+PCI Security Standards Council
+Jeremy King, the European Director of the PCI Security Standards Council (PCI SSC), leads the Council’s efforts in increasing adoption and awareness of the PCI security standards in the European region. In this role, Mr. King works closely with the Council’s General Manager and representatives of its policy-setting executive committee from American Express, Discover, JCB International, MasterCard Worldwide, and Visa, Inc. His chief responsibilities include gathering feedback from the European merchant and vendor community, coordinating research and analysis of PCI SSC managed standards in European markets, and driving education efforts and Council membership recruitment through active involvement in local and regional events, industry conferences, and meetings with key stakeholders. He also serves as a resource for Approved Scanning Vendors (ASVs), Qualified Security Assessors (QSAs), Internal Security Assessors (ISAs), Payment Application Qualified Security Assessors (PA-QSAs), PCI Forensic Investigators (PFIs), and related staff in supporting regional training, certification, and testing programs.
+Mr. King brings extensive experience in the payment card security and high-tech industries to the PCI Security Standards Council. Most recently, he served as Vice President for the Payment System Integrity Group at MasterCard Worldwide, where he played an integral role in developing payment terminal and chip card security programs. He also spent more than 14 years working in the U.K. semiconductor industry and has a strong background in payments technologies, including contactless card, encryption, and mobile payment technologies.</string>
+			<key>start</key>
+			<date>2012-07-12T13:55:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T14:45:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>1</integer>
+			<key>speakers</key>
+			<array>
+				<string>Jeremy King (PCI Council)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Cocktail</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-12T17:00:00Z</date>
+			<key>end</key>
+			<date>2012-07-12T21:00:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Registration/Coffee</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-13T05:15:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T06:00:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Announcements</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-13T06:00:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T06:10:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Keynote: A Decade of Software Security: From the Bug Parade to the BSIMM </string>
+			<key>description</key>
+			<string>Abstract: Only ten years ago, the idea of building security in was brand new. Back then, if system architects and developers thought about security at all, they usually concentrated on the liberal application of magic crypto fairy dust. We have come a long way since then. Perhaps no segment of the security industry has evolved more in the last decade than the discipline of software security. Several things happened in the early part of the decade that set in motion a major shift in the way people build software: the release of my book Building Secure Software, the publication of Bill Gates’s Trustworthy Computing memo, the publication of Lipner and Howard’s Writing Secure Code, and a wave of high-profile attacks such as Code Red and Nimda that forced Microsoft, and ultimately other large software companies, to get religion about software security. Now, ten years later, Microsoft has made great strides in software security and building security in—and they¹re publishing their ideas in the form of the SDL. Right about in the middle of the last ten years (five years in) we all collectively realized that the way to approach software security was to integrate security practices that I term the “Touchpoints” into the software development lifecycle. Now, at the end of a decade of great progress in software security, we have a way of measuring software security initiatives called the BSIMM . BSIMM is helping transform the field from an art into a measurable science. This talk provides an  entertaining review of the software security journey from its “bug of the day” beginnings to the multi-million dollar software security initiatives of today.
+Speaker bio: Gary McGraw is the CTO of Cigital, Inc., a software security consulting firm with headquarters in the Washington, D.C. area and offices throughout the world. He is a globally recognized authority on software security and the author of eight best selling books on this topic. His titles include Software Security, Exploiting Software, Building Secure Software, Java Security, Exploiting Online Games, and 6 other books; and he is editor of the Addison-Wesley Software Security series. Dr. McGraw has also written over 100 peer-reviewed scientific publications, authors a monthly security column for informIT, and is frequently quoted in the press. Besides serving as a strategic counselor for top business and IT executives, Gary is on the Advisory Boards of Dasient, Fortify Software (acquired by HP), Invincea, and Raven White. His dual PhD is in Cognitive Science and Computer Science from Indiana University where he serves on the Dean’s Advisory Council for the School of Informatics. Gary served on the IEEE Computer Society Board of Governors and produces the monthly Silver Bullet Security Podcast for IEEE Security and Privacy magazine (syndicated by informIT).
+company www.cigital.com
+podcast www.cigital.com/silverbullet
+blog www.cigital.com/justiceleague
+book www.swsec.com
+personal www.cigital.com/~gem</string>
+			<key>start</key>
+			<date>2012-07-13T06:10:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T06:55:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>1</integer>
+			<key>speakers</key>
+			<array>
+				<string>Gary McGraw, CTO, Cigital</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Break</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-13T06:55:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T07:05:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Development of Security Framework based on OWASP ESAPI for JSF2.0</string>
+			<key>description</key>
+			<string>Abstract: Modern web application frameworks have made it easy to develop high quality web application, but developing secure application, still requires the developer to possess deep understanding of security vulnerabilities and attacks. However, it is even difficult for an experience developer to find and eliminate all vulnerabilities. This demo represents JSF-ESAPI framework based on JSF2.0 and OWASP ESAPI. It helps the developer to write JSF based secure and lower-risk web application with minimal configuration, without having to possess extensive knowledge of web security. Moreover, it works as middleware and consists of four important modules.
+The validation is the first module which verifies the user input as given in the XSS prevention cheat sheet. It consists of many user defined validator tags and generates appropriate error messages on invalid user inputs, in order to perform strong validation. We have also ported ESAPI Java Validator in a JSF-friendly new library which can easily be integrated in a page. We provide a new set of JSF-tags and some of these tags perform filtering of XSS enabled code from the input.
+The File Based Authorization module simplifies the user’s role and it gives permission to visualize certain areas in the presentation layer as per the user rights.
+We add in the filtering layer a new random token to each form for each http response. The layer validates the form token with the token stored in the session in each http request. If the token is changed or is missing, the application will generate the appropriate exception. This is particularly a protection against Cross Site Request Forgery (CSRF), since another page would not know the value of this token.
+The last module is Render Response module which renders output after filtering XSS content and encodes the vulnerable characters such as &lt;,\&gt;,”,’ etc. as given in the XSS prevention cheat sheet of OWASP.    
+This framework will help developers to prevent a myriad of security problems including Cross-site Scripting, Cross-site Request Forgery, Automatic Input Validation, and Automatic Output Validation with escaped “true” or without this parameter, File based Authorization etc.. All the features are included in one framework.
+Advantages:-
+(1) Requires minimal configuration.
+(2) Retrofits security in the existing application.
+(3) Provides same performance as the JSF framework does.
+(4) Automatic filtering of XSS vulnerable code from output when escape = “true” or “false”.
+(5) Easy input validation without additional code.
+(6) Layered architecture, and leaves certain features that aren’t required.
+(7) Most security features included in one framework.        
+So far we have brought important security features under one framework in the first revised version and we would like to present it to both security specialists’ and programmers’ communities, in order to have feedback on possible improvements.</string>
+			<key>start</key>
+			<date>2012-07-13T07:05:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T07:45:00Z</date>
+			<key>place</key>
+			<string>A1</string>
+			<key>track</key>
+			<integer>2</integer>
+			<key>speakers</key>
+			<array>
+				<string>Kachhadiya Rakeshkumar and Prof. Dr. Benoist Emmanuel (Albert Ludwigs Universität Freiburg and Berne University of Applied Sciences)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Benchmarking Web Application Scanners for YOUR Organization</string>
+			<key>description</key>
+			<string>Abstract: Web applications pose significant risks for organizations. The selection of an appropriate scanning product or service can be challenging because every organization develops their web applications differently and decisions made by developers can cause wide swings in the value of different scanning technologies. To make a solid, informed decision, organizations need to create development team- and organization-specific benchmarks for the effectiveness of potential scanning technologies. This involves creating a comprehensive model of false positives, false negatives and other factors prior to mandating analysis technologies and making decisions about application risk management. This presentation provides a model for evaluating application analysis technologies, introduces an open source tool for benchmarking and comparing tool effectiveness, and outlines a process for making organization-specific decisions about analysis technology selection.</string>
+			<key>start</key>
+			<date>2012-07-13T07:05:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T07:45:00Z</date>
+			<key>place</key>
+			<string>A2</string>
+			<key>track</key>
+			<integer>3</integer>
+			<key>speakers</key>
+			<array>
+				<string>Dan Cornell (Denim Group)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>The “cree.py” side of geolocation. Weaponizing your checkins</string>
+			<key>description</key>
+			<string>Abstract:Location Privacy is the often forgotten aspect of online privacy. Users tend to use social networking platforms and services that are location aware, not realizing or not considering the dangers of that over-exposure. It’s a case of privacy infrigement that is also interesting from a social perspective as unlike the general rule, the victim is also the perpetrator. What does each one of your checkins, geo-tagged pictures, geo-tagged tweets etc tell about you? What are the patterns that emerge from the aggregation ? And more specifically how can they be used against you ? With the help of cree.py OSINT geolocation aggregator, we will go through a number of example scenarios of user “abuse” of location aware services and online over-exposure ,the consequences this abuse has on their locational privacy, and the personal and enterprize threats that stem from it.</string>
+			<key>start</key>
+			<date>2012-07-13T07:05:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T07:45:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>4</integer>
+			<key>speakers</key>
+			<array>
+				<string>Ioannis Kakavas (IT Advisor)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Coffee Break</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-13T07:45:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T08:00:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Making Security Invisible by Becoming the Developer’s Best Friends</string>
+			<key>description</key>
+			<string>Abstract: We are currently missing a trick! Our job should be to make security invisible to (most) developers so that they are able to ‘code security by default’ and have real-time (i.e. on build) feedback when they create a security vulnerability. This presentation will show how the O2 Platform is able to create such environments using multiple tools (from static to dynamic) integrated into the developer’s IDE (including BDD-Security type activities). The key is to give tools, workflows and visualisations to developers which make them understand better how they app works and behaves (i.e. adding value to their world)</string>
+			<key>start</key>
+			<date>2012-07-13T08:00:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T08:40:00Z</date>
+			<key>place</key>
+			<string>A1</string>
+			<key>track</key>
+			<integer>2</integer>
+			<key>speakers</key>
+			<array>
+				<string>Dinis Cruz (Security Innovation)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Data Mining a Mountain of Zero Day Vulnerabilities</string>
+			<key>description</key>
+			<string>Abstract: Every day, software developers around the world, from Bangalore to Silicon Valley, churn out millions of lines of insecure code. We used static binary analysis on thousands of applications submitted to us by large enterprises, commercial software vendors, open source projects, and software outsourcers, to create an anonymized vulnerability data set. By mining this data we can answer some interesting questions. What types of mistakes do developers make most often? Are we making any progress at eradicating XSS and SQL injection? How long does it really take to remediate software vulnerabilities? Is anybody actually using ESAPI? We will address these questions and many others, giving you a deep dive into application security metrics at a scale that can’t be found anywhere else.</string>
+			<key>start</key>
+			<date>2012-07-13T08:00:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T08:40:00Z</date>
+			<key>place</key>
+			<string>A2</string>
+			<key>track</key>
+			<integer>3</integer>
+			<key>speakers</key>
+			<array>
+				<string>Chris Eng (Veracode)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Anticipating Surprise – Fundamentals of Intelligence Gathering</string>
+			<key>description</key>
+			<string>Abstact: The foundation of intelligence gathering is a fundamental necessity to understand difficult situations or better evaluate factors or indicators of risk, evidence and context. Intelligence gathering is an organizational process but really is a product toward the end goal of a solution.
+This talk considers some well known historical examples of the successes and failures in Intelligence Gathering and broadens their context to the current challenges in cyber security. It is a high level process that supports high echelon decision making. Although difficult, it can be used to forcefully challenge the planning and directions of cyber security risk analysis and governance strategy.</string>
+			<key>start</key>
+			<date>2012-07-13T08:00:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T08:40:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>4</integer>
+			<key>speakers</key>
+			<array>
+				<string>Fred Donovan (Attack Logic)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Break</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-13T08:40:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T08:50:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Keynote: Fatal Injection (and what you can do about it)</string>
+			<key>description</key>
+			<string>Abstract: EnSign is an open-source suite of libraries that protect web applications from code injection attacks through the use of location-specific signatures. The signatures are unique identifiers that combine stable elements of a potentially vulnerable code statement, like its structure and keywords appearing in it, with features that depend on the statement’s execution context, such as stack traces and caller methods. During the system’s learning phase the libraries apply a cryptographic hash function on the combined elements and store the result in a table that the web application can access. When the application runs in a production setting the libraries create new signatures and use the table’s entries to validate the execution of vulnerable code statements. We have tested the EnSign libraries against more than 300 documented attacks on applications known for SQL, XPath, and JavaScript vulnerabilities. EnSign detected and thwarted all tested attacks.     
+Speaker bio: Diomidis Spinellis is a Professor in the Department of Management Science and Technology at the Athens University of Economics and Business, Greece. His research interests include software engineering, IT security, and programming languages. He has written the two award-winning “Open Source Perspective” books: “Code Reading” and “Code Quality” as well as dozens of scientific papers.
+He is a member of the IEEE Software editorial board, authoring the regular “Tools of the Trade” column. Dr. Spinellis has written the UMLGraph tool and code that ships with Mac OS X and BSD Unix. He holds an MEng in Software Engineering and a PhD in Computer Science, both from Imperial College London. Dr. Spinellis is senior member of the ACM and the IEEE and a member of the Usenix association.</string>
+			<key>start</key>
+			<date>2012-07-13T08:50:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T09:35:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>1</integer>
+			<key>speakers</key>
+			<array>
+				<string>Diomidis Spinellis, Professor, Athens University of Economics and Business</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Keynote:Everything you know about Injection Attack is wrong</string>
+			<key>description</key>
+			<string>Abstract: This casual talk will take a look at several mundane vulnerabilities that we all know about and ask a few deeper questions. What are the underlying mechanisms? Does our advice on preventing them *actually* work? Is there a better way when you think of software design patterns? By the end, we’ll challenge the audience to think past the surface of these code vulnerabilities and hopefully learn a little about how the right abstraction model can save tons of security headaches.
+Bio: Pravir Chandra is a veteran in the security space and a long-time OWASP contributor, including his role as the creator and leader of the Open Software Assurance Maturity Model (OpenSAMM) project. Currently as security architect for the CTO of Bloomberg, he drives proactive security initiatives that demonstrate concrete value for the firm. Prior to this, Pravir was Director of Strategic Services at HP/Fortify where he lead software security assurance programs for Fortune 500 clients in a variety of verticals. He is responsible for standing up the most comprehensive and measurably effective programs in existence today. As a thought leader in the security field for over 10 years, Pravir has written many articles, whitepapers, and books and is routinely invited to speak at businesses and conferences world-wide.</string>
+			<key>start</key>
+			<date>2012-07-13T09:35:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T10:10:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>1</integer>
+			<key>speakers</key>
+			<array>
+				<string>Pravir Chandra (Bloomberg)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Lunch</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-13T10:10:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T10:50:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Real World Threat Modeling via the PASTA Methodology</string>
+			<key>description</key>
+			<string>Abstract: Threat modeling gets a lot of sexy headlining – rightfully so, but nothing is a bigger turnoff when you’re burning for actionable, realistic models, and get more theoretical, pragmatic hype. Risk mitigation for web application environments is broken today as a result of many shortcomings in proper design, coding, security testing, and even governance efforts. This discussion, focused on web application environments aims to marry various concepts across various security disciplines, thereby proving to provide a utopia of relevance to all participants, regardless of technical role. The presentation will cover all the germane aspects to application threat modeling including Data Flow Diagramming, Trust Boundaries, and different approaches but will also address how to effectively build the necessary content for attack and vuln libraries in order to evolve beyond saying your practicing threat modeling and actually doing it.</string>
+			<key>start</key>
+			<date>2012-07-13T10:50:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T11:30:00Z</date>
+			<key>place</key>
+			<string>A1</string>
+			<key>track</key>
+			<integer>2</integer>
+			<key>speakers</key>
+			<array>
+				<string>Tony Ucedavelez (VerSprite)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Can Correlations Secure Web Application?</string>
+			<key>description</key>
+			<string>Abstract: Nearly ten years ago I have designed a correlation engine for an early Web Application Firewall. At the time the assumption was that by combining several detection engines or by examining recurring events attack detection can be more accurate. Today most Web Application Firewalls offer a feature labeled “correlations” that builds on this promise.
+My design and most following ones suffer from several inherent limitations. Since a Web Application Firewall is a real time system, it needs to be fast and cope with ever increasing network bandwidth without adding latency. Moreover correlations are many times done over time contradicting the need to block attacks before they penetrate our systems.
+For those reasons and others, correlations have stayed a hyped marketing term in the web application security field. Their contribution for attack mitigation is not well understood and at times not fully realized by the Web Application Firewalls.
+In this presentation we will explore the current and the potential of correlations for web application security. Specifically, we will explore how the capabilities of full correlation engines such as those found in security event management systems (SIEMs) can help mitigate application level attacks.</string>
+			<key>start</key>
+			<date>2012-07-13T10:50:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T11:30:00Z</date>
+			<key>place</key>
+			<string>A2</string>
+			<key>track</key>
+			<integer>3</integer>
+			<key>speakers</key>
+			<array>
+				<string>Ofer Shezaf (HP)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>BDD for Automating Web Application Testing</string>
+			<key>description</key>
+			<string>Abstract: Security Testing of web applications, both in the form of automated scanning and manual security assessment is poorly integrated into the software development lifecycle (SDL) when compared to other testing activities such as Unit or Integration tests.
+Agile methodologies such as Test Driven Development advocate a test first approach, where the tests themselves form the specification for the software. These effectively form an executable specification that grows with the application. If the same approach could be taken with security requirements and testing, then the security domain could also benefit from the advantages of automated integration testing.
+BDD is an evolutionary step from Test Driven Development and offers the ability to define the behaviour of an application in a more natural language. BDD is effectively a communication tool, allowing the business and security analysts to define functional and non-functional behaviour in a natural language, while still allowing that behaviour to be captured using automated tests written by developers.
+Since many web applications share a common baseline of security requirements (for example, those contained in the OWASP ASVS), it’s possible to take a templated approach to defining this baseline security behaviour of common web applications. BDD-Security is an open source project aimed at doing exactly that. It’s built on JBehave and Selenium 2 (WebDriver) and includes a number of predefined security specifications for web applications. Since they’re written in JBehave these specifications are both understandable by non-security experts, and they’re executable as part of the build or testing process.
+BDD-Security supports two broad classes of security tests: Functional and Non-functional. In general, the functional tests are implemented using WebDriver while the non-functional tests are implemented using the Burp Suite Security scanner. Since Burp Suite is aimed at manual testing, an interface had to be written to be able to control Burp remotely from a script. This interface is also released as an open source project.
+The demo will consist of introducing the basic concepts and then using a vulnerable web application to build a working BDD-Security configuration from the ground up.
+BDD-Security was released in March 2012, more information can be found at:
+- Introduction and overview: http://www.continuumsecurity.net/bdd-intro.html
+- Getting started tutorial with screenshots: http://www.continuumsecurity.net/bdd-tut.html
+- Video of complete execution: http://vimeo.com/38284219</string>
+			<key>start</key>
+			<date>2012-07-13T10:50:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T11:30:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>4</integer>
+			<key>speakers</key>
+			<array>
+				<string>Stephen De Vries (Continuum Security)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Break</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-13T11:30:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T11:40:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>AppSec Training, Securing the SDLC, WebGoat.NET and the Meaning of Life</string>
+			<key>description</key>
+			<string>Abstract: One of the most vital pieces of a secure SDLC is security training – not only for developers, but for Architects, QA and anyone else involved in the creation of software. Too frequently, this is minimized, overlooked or completely absent within an organization. In some cases, the very idea of application security is dismissed as unnecessary.
+This talk starts by making a strong argument for developer education, and how it fits into any organization’s SDLC. Training will be put into the context of NIST’s “Security considerations in System Development Life Cycle” Document, Microsoft’s Simplified SDL, BSIMM3 and OWASP Open SAMM.
+From there, we discuss other OWASP resources and projects dedicated to developer education, and an in-depth discussion of OWASP WebGoat.NET – an ASP.NET specific re-design of OWASP which meets the needs and addresses the challenges of modern application security training programs.
+Lecture will be delivered by Jerry Hoff, VP of Static Code Analysis Division at WhiteHat Security. Jerry is the leader of the OWASP Appsec Tutorial Series, WebGoat.NET and AntiSamy.NET. Jerry is a former developer, author, and has over 10,000 hours delivering technical training. Jerry holds a Masters degree in Computer Science from Washington University in St. Louis.
+Key Points:
+- Developers need a better way to be education in AppSec
+- Equip participants with the tools and evidence they need make an irrefutable case for developer security training
+- Analysis of tools/docuemnts/videos that OWASP provides for training
+- Introduction of WebGoat.NET: OWASP’s latest tool to help education developers
+- Interactive demonstration of WebGoat.NET with full audience participation</string>
+			<key>start</key>
+			<date>2012-07-13T11:40:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T12:20:00Z</date>
+			<key>place</key>
+			<string>A1</string>
+			<key>track</key>
+			<integer>2</integer>
+			<key>speakers</key>
+			<array>
+				<string>Jerry Hoff (Whitehat)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Using Hash-basede Message Authentication Code Protocol to Reduce Web Application Attack Surface</string>
+			<key>description</key>
+			<string>Abstract: For as long as companies rely on web sites to do business with their customers and partners, attackers will keep targeting these web applications searching for new (and old) vulnerabilities and trying to exploit them. Reducing the attack surface has been a good practice for quite some time, and hardening applications and web servers usually accomplishes this. In this paper we are presenting a cryptographic protocol to be implemented in a Web Application Firewall in order to reduce the attack surface with minimum impact to the users and zero changes on the web application itself. Basically, the proposed method consists in parsing HTTP Response data sent by the web application server and signing HTML elements of this response before it is sent back to the client browser, from that point on, the integrity of the communication between the client and the web application will be checked using the protected Uniform Resource Identifier (URI). With this mechanism, no modifications are allowed during a new HTTP Request using the signed URI, reducing quite a number of known web application attacks.</string>
+			<key>start</key>
+			<date>2012-07-13T11:40:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T12:20:00Z</date>
+			<key>place</key>
+			<string>A2</string>
+			<key>track</key>
+			<integer>3</integer>
+			<key>speakers</key>
+			<array>
+				<string>Breno Pinto and Luiz Eduardo Santos (Trustwave)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Advanced CSRF and Stateless Anti-CSRF</string>
+			<key>description</key>
+			<string>Abstract: Cross-site request forgeries are often presented as blind, one-shot attacks. In this demo-based presentation we will look at how you can construct a multi-step, semi-blind attack using both HTTP GETs and POSTs. We will also look at CSRF against RESTful services with forged JSON. Protection against CSRF can be done without server-side state which is very attractive in modern web applications. We will look at stateless double and triple submit as anti-CSRF measures.</string>
+			<key>start</key>
+			<date>2012-07-13T11:40:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T12:20:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>4</integer>
+			<key>speakers</key>
+			<array>
+				<string>John Wilander (Linköpings universitet)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Break</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-13T12:20:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T12:30:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Anatomy of a Logic Flaw: Breaking the Myth</string>
+			<key>description</key>
+			<string>Abstract:Traditional vulnerabilities like SQL Injection, buffer overflows, etc, have well established techniques for discovery and prevention. On the other hand, logic flaws are incredibly diverse and often unique to the specific application or business organization. Because of this, logic flaws have taken on a near mythical status. In the myth, logic flaws are nearly impossible to find until the elite of the elite hackers launch an attack to completely own the application.
+The reality is far different; logic flaws are not the complex nightmare that many have made them out to be. This presentation will use real-world examples to show how logic flaws are typically introduced into an application, how they can be consistently detected during testing, and how they can be prevented during development. Instead of hoping for magic, repeatable processes will be outlined for each of those items. This will prove beneficial to anyone responsible for application security: programmers, architects, managers, and pen testers.</string>
+			<key>start</key>
+			<date>2012-07-13T12:30:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T13:10:00Z</date>
+			<key>place</key>
+			<string>A1</string>
+			<key>track</key>
+			<integer>2</integer>
+			<key>speakers</key>
+			<array>
+				<string>Charles Henderson (Trustwave)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>2012 Global Security Report</string>
+			<key>description</key>
+			<string>Abstract. The Trustwave 2012 Global Security Report identifies the top threats encountered by businesses over the past year. Based on an analysis of Trustwave data sources, including more than 300 incident investigations, 2,000 penetration tests conducted by Trustwave SpiderLabs, and 2 million network and application vulnerability scans, the  report provides a roadmap for any organization that needs to improve and update their information security strategy.
+The Trustwave 2012 Global Security Report highlights top data security risk areas, offering predictions on future targets based on analysis  and perceived trends. By learning from others’ data vulnerabilities, and applying tactical and strategic change outlined in this report, any organization will be better able to reduce data threats and loss. Many OWASP projects will be highlighted in helping the attendee fight better.</string>
+			<key>start</key>
+			<date>2012-07-13T12:30:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T13:10:00Z</date>
+			<key>place</key>
+			<string>A2</string>
+			<key>track</key>
+			<integer>3</integer>
+			<key>speakers</key>
+			<array>
+				<string>Tom Brennan (Trustwave)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>The Invisible Threat – MitB (Man in the Browser)</string>
+			<key>description</key>
+			<string>Abstract: During the introduction I will explain in general lines about the full process from the victim’s point of view: Infection campaign –&gt; exploit kit –&gt; spam and compromised websites –&gt; drive-by infection –&gt; HTML and JavaScript code injection into the browser by the Trojan (exploit’s kit predefined payload) –&gt; victim logs in to his online banking account –&gt; victim/MitB initiates money transfer to 3-rd side party –&gt; MitB fetches available mule account from the C&amp;C server –&gt; MitB uses social engineering to get the required TAN/mTAN from the victim –&gt; money transfer completed –&gt; MitB manipulates the infected browser to display false account balance and false money transfers history to the victim.</string>
+			<key>start</key>
+			<date>2012-07-13T12:30:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T13:10:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>4</integer>
+			<key>speakers</key>
+			<array>
+				<string>Uri Fleyder (RSA Security)</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Break</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-13T13:10:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T13:20:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Keynote: Jackpotting Mobile Apps</string>
+			<key>description</key>
+			<string>Abstract: Since unveiling the very first Google Android kernel-level rootkit at DEFCON 18, Christian has diverted his attention to something closer to the end-user experience – mobile applications themselves. The outcome of this research has been quite interesting and paints a very bleak picture of the current stance of mobile application security.
+Christian will demonstrate 0day vulnerabilities relating to insecure mobile application development; the humorous and very much financially damaging implications of such attacks.
+Common application security mistakes that have been transposed into the mobile application world provide rich pickings for security researchers bored of alert(1).
+Thankfully, the OWASP top 10 mobile application security controls for developers come to the rescue and provide the right backdrop to which we can demonstrate what developers should have done before unleashing their apps to the world in a rush to tap into uncharted blue oceans.
+Speaker Bio: Christian is the Penetration Testing lead for global website security at a large financial services organisation.
+Christian is a member of the OWASP Global Industry Committee and the OWASP Cyprus Chapter Leader, a contributor to the OWASP Mobile Security project and a contributing author of the European Network Information Security Agency (ENISA) Smartphone Secure Development Guidelines for App Developers.
+Christian has presented at thought leading conferences such as Black Hat and DEFCON. His research has been featured by many news organizations including: Forbes, Reuters, Slashdot, Tech Herald, Computerworld, ZDNet, CSO Magazine, Dark Reading, Threatpost, CNET and eWeek.
+Christian co-organises AthCon – the first and foremost technical IT Security conference in Athens, Greece. More info: http://www.athcon.org
+Christian holds a MSc with Distinction in Information Security from the Information Security Group at Royal Holloway, University of London and a CISSP. Christian is also a qualified Chemical Engineer having graduated with a MEng(Hons) in Chemical Engineering from UMIST.</string>
+			<key>start</key>
+			<date>2012-07-13T13:20:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T14:00:00Z</date>
+			<key>place</key>
+			<string>Auditorium</string>
+			<key>track</key>
+			<integer>1</integer>
+			<key>speakers</key>
+			<array>
+				<string>Christian Papathanasiou</string>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Closing ceremony</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-13T14:00:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T14:15:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>Visit to the Acropolis Museum</string>
+			<key>description</key>
+			<string></string>
+			<key>start</key>
+			<date>2012-07-13T14:45:00Z</date>
+			<key>end</key>
+			<date>2012-07-13T17:30:00Z</date>
+			<key>place</key>
+			<string></string>
+			<key>track</key>
+			<integer>0</integer>
+			<key>speakers</key>
+			<array/>
+		</dict>
+	</array>
+</dict>
+</plist>
